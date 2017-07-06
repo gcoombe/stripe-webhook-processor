@@ -1,0 +1,13 @@
+extends:
+    - eslint:recommended
+rules:
+    eqeqeq: 2
+    semi: 2
+    quotes:
+      - 2
+      - double
+parserOptions:
+    ecmaVersion: 6
+    sourceType: module
+env:
+    node: true
