@@ -1,4 +1,6 @@
 # stripe-webhook-processor
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/gcoombe/stripe-webhook-processor.svg)](https://greenkeeper.io/)
 > Process stripe webhook events in your express app
 
 ## Installation 
